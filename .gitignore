@@ -1,0 +1,23 @@
+# Python cache and virtual environments
+__pycache__/
+.pycache/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+myenv/
+.venv/
+venv/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+
+# Environment and secrets
+.env
+
+# Generated artifacts
+*.joblib
+*.pkl
+
+# Tableau temporary files
+*.twbr

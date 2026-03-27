@@ -66,13 +66,6 @@ The Power BI report is organized around three views:
 - Churn drivers to highlight high-risk patterns
 - Model performance and retention recommendations
 
-When you export dashboard screenshots, place them in `images/` and reference them here.
-
-Example:
-
-```md
-Churn Drivers.png
-```
 
 ## Project Structure
 
